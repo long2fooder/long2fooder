@@ -35,7 +35,7 @@
 ![@longtrieu's stats](https://github-readme-stats-gamma-tan-69.vercel.app/api?username=longtrieu&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
 ![top languages](https://github-readme-stats-gamma-tan-69.vercel.app/api/top-langs/?username=longtrieu&layout=compact&theme=transparent&hide_border=true)
 ![@longvireo's stats](https://github-readme-stats-five-psi-75.vercel.app/api?username=longvireo&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longtrieu&layout=compact&theme=transparent&hide_border=true)
+![top languages](https://github-readme-stats-five-psi-75.vercel.app/api/top-langs/?username=longvireo&layout=compact&theme=transparent&hide_border=true)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=longtrieu&style=for-the-badge&color=orange" width="150" />
